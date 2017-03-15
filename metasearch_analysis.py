@@ -10,3 +10,4 @@ if data_exists and in_repro_course:
 else:
     print('data has not been found')
     assert(False)
+print('end')
